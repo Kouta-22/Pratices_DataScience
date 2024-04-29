@@ -1,4 +1,4 @@
-CREATE DATABASE olist_db;
+
   
 CREATE TABLE customers (
   customer_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
